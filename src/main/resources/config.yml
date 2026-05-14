@@ -1,0 +1,5 @@
+cooldown-seconds: 30
+warmup-seconds: 0
+radius-min: 500
+radius-max: 2500
+teleport-to-spawn: false
